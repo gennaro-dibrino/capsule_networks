@@ -99,6 +99,7 @@ data/*
 .ipynb_checkpoints/*
 
 #Tensorflow checkpoints/saves
+faster_lr_saves/*
 my_capsule_network.data-00000-of-00001
 checkpoint
 my_capsule_network.index
